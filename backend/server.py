@@ -575,4 +575,3 @@ def get_time():
 # Running app
 if __name__ == '__main__':
 	app.run(debug=True)
-
